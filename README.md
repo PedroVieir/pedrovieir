@@ -1,33 +1,17 @@
 <h2>👋 Eai galera, eu sou o Pedro Vieira</h2>
-
-  <div> 
-    <ul>
-      <li>  🎓Curso Técnico de Desenvolvimento Web</li>
-      <li>  🎓 Estou me formando em Analise e Desenvolvimento de Software </li>
-      <li>  🤝Estou em busca da primeira oportunidade para trabalhar com oque eu amo fazer </li>
-      <li>  💻 Estudando JavaScript e Frameworks </li>
-      <li>  🤥 Intesse em desenvolvimento web e mobile </li>
-      <li>  📫 Contato:pedrovieira1307@gmail.com </li>
-      <li>  🎮 Criador de conteúdo nas horas vagas </li>
-     </ul>
-   </div>
    
  <div align="center">
   <a href="https://github.com/pedrovieir">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovieir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovieir&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
   ##
- 
 <div> 
-  
   <a href="https://www.instagram.com/pedrxx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/pedrinf11" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrovieira1307@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
