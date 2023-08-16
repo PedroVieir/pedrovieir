@@ -1,4 +1,6 @@
-## Salve galera, eu sou o Pedro criador de conteúdo e estudante de programação e tecnologia!
+## Eai, eu sou o Pedro.
+##Desenvolvedor em formação, explorando o código e moldando o futuro.
+Pesquisador ávido de avanços científicos e estrategista de investimentos nas horas vagas. Aprendizado constante é meu lema.
 <ul>
     <li>  🎓 Estudante de Análise e Desenvolvimento de Sistemas</li>
     <li>  🎓 Técnico em Desenvolvimento WEB</li>
