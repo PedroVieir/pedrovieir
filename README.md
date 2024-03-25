@@ -26,6 +26,4 @@ Pesquisador ávido de avanços científicos e estrategista de investimentos nas 
   <a href="https://www.linkedin.com/in/phc-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  
- ![Snake animation](https://github.com/pedrovieir/pedrovieir/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
