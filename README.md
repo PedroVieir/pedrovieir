@@ -1,7 +1,6 @@
 ## Olá, eu sou o Pedro.
 ##Desenvolvedor em formação | Explorador de código | Estrategista de Investimentos
 
-##Sobre mim
 Sou um desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de novos desafios. Meu objetivo é transformar ideias inovadoras em soluções reais, explorando o código e moldando o futuro com criatividade e eficiência.
 Pesquisador ávido de avanços científicos e estrategista de investimentos nas horas vagas. Aprendizado constante é meu lema.
 
